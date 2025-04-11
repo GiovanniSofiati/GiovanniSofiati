@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Giovanni Sofiati 
+# 👨🏻‍💻 Giovanni Sofiati 
 **`Desenvolvedor FullStack`**
 
 Apaixonado por tecnologia desde criança, sou graduado em Analise e Desenvolvimento de Sistemas e sigo na área de tecnologia voltado para o desenvolvimento fullstack.
